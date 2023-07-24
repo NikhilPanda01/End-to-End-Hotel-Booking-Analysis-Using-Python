@@ -46,8 +46,7 @@ Approach:
 7. Report Generation: Prepare a comprehensive report that documents the entire analysis process, presents the key insights, and offers data-driven solutions to address the sales decline issue.
 
 8. Insights and Recommendations: Summarize the findings in a comprehensive report, and provide actionable recommendations to address sales decline and improve business performance.
-9. Link For ipynb file : *https://github.com/NikhilPanda01/End-to-End-Hotel-Booking-Analysis-Using-Python/blob/main/Hotel%20Booking%20End%20to%20End%20Analysis.ipynb*
-
+9. Link For [ipynb_file.](https://github.com/NikhilPanda01/End-to-End-Hotel-Booking-Analysis-Using-Python/blob/main/Hotel%20Booking%20End%20to%20End%20Analysis.ipynb)
 # Suggestions:
 Below are the suggested recommendations for our clients to enhance their business 
 
