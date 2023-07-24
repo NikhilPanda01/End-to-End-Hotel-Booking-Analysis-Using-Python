@@ -22,6 +22,8 @@ The objective can be broken down into the following detailed component.
 
 ✅ Presenting the findings and solutions to the problem using a Report
 
+## Here is the comprehensive report of the analysis conducted on this project:## https://github.com/NikhilPanda01/End-to-End-Hotel-Booking-Analysis-Using-Python/blob/main/Hotel%20Booking%20Analysis%20Report%20.md
+
 
 # Data Source:
 The Hotel Booking data available on Kaggle.
@@ -47,6 +49,7 @@ Approach:
 8. Insights and Recommendations: Summarize the findings in a comprehensive report, and provide actionable recommendations to address sales decline and improve business performance.
 
 # Suggestions:
+Below are the suggested recommendations for our clients to enhance their business 
 
 - Cancellation rates rise as the price does. In order to prevent cancellations of reservations, hotels could work on their pricing strategies and try to lower the rates for specific hotels based on locations. They can also provide some discounts to the consumers.
 
