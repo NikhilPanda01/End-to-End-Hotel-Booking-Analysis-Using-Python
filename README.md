@@ -22,8 +22,7 @@ The objective can be broken down into the following detailed component.
 
 ✅ Presenting the findings and solutions to the problem using a Report
 
-## Here is the comprehensive report of the analysis conducted on this project:## https://github.com/NikhilPanda01/End-to-End-Hotel-Booking-Analysis-Using-Python/blob/main/Hotel%20Booking%20Analysis%20Report%20.md
-
+- Here is the comprehensive report of the analysis conducted on this project: *https://github.com/NikhilPanda01/End-to-End-Hotel-Booking-Analysis-Using-Python/blob/main/Hotel%20Booking%20Analysis%20Report%20.md*
 
 # Data Source:
 The Hotel Booking data available on Kaggle.
